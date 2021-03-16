@@ -9,6 +9,8 @@
 <img src="https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg" width="300" >
 
 ## 感谢
+https://dacota.tw/
+https://www.gdaily.org/
 https://github.com/TongmingWu/Manga
 
 
