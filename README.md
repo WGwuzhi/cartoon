@@ -3,7 +3,7 @@
 
 ## [下载](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@main/xcartoon.apk)
 * [備用下载](https://github.com/hongchacha/cartoon/raw/main/xcartoon.apk)
-* [不能安裝請下载此版](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@cnv/xcartoon-v107.apk)
+* [不能安裝請下载此版](https://cdn.jsdelivr.net/gh/hongchacha/cartoon@cnv/xcartoon-v108.apk)
 
 ## 图示
 <img src="https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg" width="300" >
